@@ -17,7 +17,12 @@ Interactive Power BI dashboard analyzing sales performance by year, category, se
 - Filters: year and category
 
 ### Tools
-Power BI, DAX
+Python (pandas, seaborn), Power BI, DAX
+
+### Project workflow
+1. Data cleaning and exploration in Python (pandas) - see `notebooks/sales_analysis.ipynb`
+2. Visualizations in Python (seaborn)
+3. Interactive dashboard in Power BI
 
 ### Preview
 ![Dashboard](images/dashboard.png)
@@ -43,7 +48,12 @@ Interaktives Power-BI-Dashboard zur Analyse der Verkaufsleistung nach Jahr, Kate
 - Filter: Jahr und Kategorie
 
 ### Werkzeuge
-Power BI, DAX
+Python (pandas, seaborn), Power BI, DAX
+
+### Projektablauf
+1. Datenbereinigung und -analyse mit Python (pandas) - siehe `notebooks/sales_analysis.ipynb`
+2. Visualisierungen mit Python (seaborn)
+3. Interaktives Dashboard in Power BI
 
 ### Vorschau
 Siehe die Bilder oben im englischen Teil.
